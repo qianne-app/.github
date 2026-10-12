@@ -2,6 +2,11 @@
 
 # 钱呢 · Qianne
 
+![Version](https://img.shields.io/badge/Version-0.1.0-34C759?style=flat-square)
+![Build](https://img.shields.io/badge/Build-1-6E7681?style=flat-square)
+![Status](https://img.shields.io/badge/Status-In_Development-F2A93B?style=flat-square)
+![Platform](https://img.shields.io/badge/Focus-iPhone-007AFF?style=flat-square)
+
 ### 钱呢？让每一笔钱，都有清楚的去向。
 
 一款本地优先、原生体验的记账与资产管理 App。
@@ -13,6 +18,19 @@
 </div>
 
 ---
+
+## 版本信息
+
+| 项目 | 当前信息 |
+| --- | --- |
+| App 版本 | **0.1.0** |
+| 构建号 | **1**（App 内显示为 `0.1.0 (1)`） |
+| 版本阶段 | 开发版本 · 本地记账 MVP |
+| 当前重点 | iPhone 原生体验 |
+| 工程最低系统 | iOS 26.0 · macOS 26.0 |
+| 信息核对日期 | 2026-10-13 |
+
+版本号与构建号来自 [Apple 工程配置](https://github.com/qianne-app/qianne-apple/blob/main/Qianne.xcodeproj/project.pbxproj)，随 App 版本变更同步维护。本页展示的是开发工程版本，正式发布信息以实际发布公告为准。
 
 ## 关于钱呢
 
