@@ -38,6 +38,37 @@
 
 我们从 iPhone 开始，以 SwiftUI 构建 Apple 原生客户端，逐步完善 iPad、Mac 体验；后续规划 Android、鸿蒙原生客户端，以及用于账号、同步与备份的 Go 后台。
 
+## App 预览
+
+从记下一笔，到看清收支与资产。以下为 iPhone 开发阶段界面截图，账户与金额使用演示数据，页面会随版本持续迭代。点击图片可查看原图。
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>日常流水</h3>
+      <p>按天查看收支，掌握本月结余。</p>
+      <a href="https://raw.githubusercontent.com/qianne-app/.github/main/profile/assets/screenshots/transactions.png"><img src="https://raw.githubusercontent.com/qianne-app/.github/main/profile/assets/screenshots/transactions.png" width="330" alt="钱呢 iPhone 流水首页与月度收支汇总"></a>
+    </td>
+    <td align="center" width="50%">
+      <h3>资产总览</h3>
+      <p>净资产、资金账户与信用账户一目了然。</p>
+      <a href="https://raw.githubusercontent.com/qianne-app/.github/main/profile/assets/screenshots/assets.png"><img src="https://raw.githubusercontent.com/qianne-app/.github/main/profile/assets/screenshots/assets.png" width="330" alt="钱呢 iPhone 资产总览与账户分组"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>轻松记一笔</h3>
+      <p>选择分类与账户，用数字键盘快速记录。</p>
+      <a href="https://raw.githubusercontent.com/qianne-app/.github/main/profile/assets/screenshots/compose.png"><img src="https://raw.githubusercontent.com/qianne-app/.github/main/profile/assets/screenshots/compose.png" width="330" alt="钱呢 iPhone 支出记账面板与数字键盘"></a>
+    </td>
+    <td align="center" width="50%">
+      <h3>收支分析</h3>
+      <p>分类占比与变化排行，帮你看清钱的去向。</p>
+      <a href="https://raw.githubusercontent.com/qianne-app/.github/main/profile/assets/screenshots/statistics.png"><img src="https://raw.githubusercontent.com/qianne-app/.github/main/profile/assets/screenshots/statistics.png" width="330" alt="钱呢 iPhone 分类支出环形图与排行"></a>
+    </td>
+  </tr>
+</table>
+
 ## 核心功能
 
 | 方向 | 内容 |
