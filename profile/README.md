@@ -98,9 +98,11 @@
 | 仓库 | 职责 | 技术 |
 | --- | --- | --- |
 | [qianne-apple](https://github.com/qianne-app/qianne-apple) | Apple 客户端、领域规则与本地存储 | Swift 6 · SwiftUI · GRDB · SQLite |
-| [qianne-spec](https://github.com/qianne-app/qianne-spec) | 跨端数据模型、业务规则、SQLite 基准结构、同步协议草案与共享测试 | Markdown · SQL · JSON · Go 参考实现 |
+| [qianne-spec](https://github.com/qianne-app/qianne-spec) | 跨端数据模型、业务规则、SQLite 基准结构、同步协议与共享测试 | Markdown · SQL · JSON · Go 参考实现 |
+| [qianne-server](https://github.com/qianne-app/qianne-server) | 后台服务：账号、多设备同步与备份 | Go · PostgreSQL |
+| [qianne-docs](https://github.com/qianne-app/qianne-docs) | 协作文档：路线图、工程规范、任务与验收记录 | Markdown |
 
-以上两个仓库目前为私有仓库，访问需要相应权限。本页用于公开介绍项目。
+以上仓库目前均为私有仓库，访问需要相应权限。本页用于公开介绍项目。
 
 ## 路线图
 
