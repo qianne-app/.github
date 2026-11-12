@@ -2,8 +2,8 @@
 
 # 钱呢 · Qianne
 
-![Version](https://img.shields.io/badge/Version-0.6.1-34C759?style=flat-square)
-![Build](https://img.shields.io/badge/Build-1-6E7681?style=flat-square)
+![Version](https://img.shields.io/badge/Version-0.6.3-34C759?style=flat-square)
+![Build](https://img.shields.io/badge/Build-25-6E7681?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-In_Development-F2A93B?style=flat-square)
 ![Platform](https://img.shields.io/badge/Focus-iPhone-007AFF?style=flat-square)
 
@@ -23,14 +23,14 @@
 
 | 项目 | 当前信息 |
 | --- | --- |
-| App 版本 | **0.6.1** |
-| 构建号 | **1**（App 内显示为 `0.6.1 (1)`） |
-| 版本阶段 | 0.6.1 已发布 · 账号与多设备同步可用 |
+| App 版本 | **0.6.3** |
+| 构建号 | **25**（App 内显示为 `0.6.3 (25)`） |
+| 版本阶段 | 0.6.3 已发布 · 账号与多设备同步可用 |
 | 当前重点 | 0.7 苹果生态：iPad、Mac、Apple Watch |
 | 工程最低系统 | iOS 26.0 · macOS 26.0 |
-| 信息核对日期 | 2026-11-11 |
+| 信息核对日期 | 2026-11-13 |
 
-当前发布版本为 **0.6.1 (1)**，发布于 2026 年 11 月 11 日；后续功能安排见下方路线图。
+**0.6.3 (25)** 于 2026 年 11 月 13 日发布。首页可查看本周收支，资产分析新增每月负债率，备份还原增加进度显示，并改进个人周期账自动补记。
 
 ## 关于钱呢
 
@@ -114,7 +114,7 @@
 | 0.4 日常记账完整 | 周期账与还款提醒、卡片资料、本期应还与分期、预算完善、截图记账、九种小组件、流水复制与标签归档 | ✅ 已完成 |
 | 0.5 数据能力补全 | 多币种、流水附件图片 | ✅ 已完成 |
 | 0.6 账号与多设备同步 | Go 后台、钱呢号与手机号、邮箱登录、离线优先的增量同步、账号注销 | ✅ 已完成 |
-| 0.7 苹果生态 | iPad、Mac、Apple Watch 正式版 | 🚧 进行中 |
+| 0.7 苹果生态 | 优先开发 Mac 桌面记账体验，随后推进 iPad 和 Apple Watch | 🚧 Mac 开发中 |
 | 0.8 共享账本 | 邀请成员一起记账，按角色管理权限；之前先做同步数据的端到端加密 | 📋 计划中 |
 | 0.9 上架准备 | 新手引导、更多记账 App 的导入、深色模式与无障碍、隐私合规、TestFlight 内测 | 📋 计划中 |
 
