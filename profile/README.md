@@ -2,8 +2,8 @@
 
 # 钱呢 · Qianne
 
-![Version](https://img.shields.io/badge/Version-0.6.3-34C759?style=flat-square)
-![Build](https://img.shields.io/badge/Build-25-6E7681?style=flat-square)
+![Version](https://img.shields.io/badge/Version-0.6.4-34C759?style=flat-square)
+![Build](https://img.shields.io/badge/Build-15-6E7681?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-In_Development-F2A93B?style=flat-square)
 ![Platform](https://img.shields.io/badge/Focus-iPhone-007AFF?style=flat-square)
 
@@ -23,14 +23,14 @@
 
 | 项目 | 当前信息 |
 | --- | --- |
-| App 版本 | **0.6.3** |
-| 构建号 | **25**（App 内显示为 `0.6.3 (25)`） |
-| 版本阶段 | 0.6.3 已发布 · 账号与多设备同步可用 |
+| App 版本 | **0.6.4** |
+| 构建号 | **15**（App 内显示为 `0.6.4 (15)`） |
+| 版本阶段 | 0.6.4 已发布 · 账号与多设备同步可用 |
 | 当前重点 | 0.7 苹果生态：iPad、Mac、Apple Watch |
 | 工程最低系统 | iOS 26.0 · macOS 26.0 |
-| 信息核对日期 | 2026-11-13 |
+| 信息核对日期 | 2026-11-14 |
 
-**0.6.3 (25)** 于 2026 年 11 月 13 日发布。首页可查看本周收支，资产分析新增每月负债率，备份还原增加进度显示，并改进个人周期账自动补记。
+**0.6.4 (15)** 于 2026 年 11 月 14 日发布。重设计分类图标并优化批量添加与分类管理体验，统一隐藏弹出页顶部拖动横杠，并大幅优化截图记账对银行/三方账单、招行汇入汇款及分类学习的识别准确率。
 
 ## 关于钱呢
 
