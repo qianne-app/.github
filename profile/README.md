@@ -2,8 +2,8 @@
 
 # 钱呢 · Qianne
 
-![Version](https://img.shields.io/badge/Version-0.6.5-34C759?style=flat-square)
-![Build](https://img.shields.io/badge/Build-14-6E7681?style=flat-square)
+![Version](https://img.shields.io/badge/Version-0.6.6-34C759?style=flat-square)
+![Build](https://img.shields.io/badge/Build-5-6E7681?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-In_Development-F2A93B?style=flat-square)
 ![Platform](https://img.shields.io/badge/Focus-iPhone-007AFF?style=flat-square)
 
@@ -23,14 +23,14 @@
 
 | 项目 | 当前信息 |
 | --- | --- |
-| App 版本 | **0.6.5** |
-| 构建号 | **14**（App 内显示为 `0.6.5 (14)`） |
-| 版本阶段 | 0.6.5 已发布 · 账号与多设备同步可用 |
+| App 版本 | **0.6.6** |
+| 构建号 | **5**（App 内显示为 `0.6.6 (5)`） |
+| 版本阶段 | 0.6.6 已发布 · 账号与多设备同步可用 |
 | 当前重点 | 0.7 苹果生态：iPad、Mac、Apple Watch |
 | 工程最低系统 | iOS 26.0 · macOS 26.0 |
-| 信息核对日期 | 2026-11-15 |
+| 信息核对日期 | 2026-11-16 |
 
-**0.6.5 (14)** 于 2026 年 11 月 15 日发布。信用卡分期新增等本等息、等额本息及按银行总利息生成计划，支持历史利息记录起点；退款统计归属原消费日期与账户，并改进金额预填、键盘收起和统计图表体验。本版同时修复退款启动汇总与借贷账户利息周期汇总的一致性。完整更新见 [v0.6.5发布说明](https://github.com/qianne-app/qianne-apple/releases/tag/v0.6.5)。
+**0.6.6 (5)** 于 2026 年 11 月 16 日发布。账户图标统一为圆角方形，补齐银行、钱包和消费信贷品牌标志；统一日期时间、选图与相机体验。首页和账户明细中同一次还款按本金、关联利息依次显示，还款默认跟随当前可用账本。完整更新见 [0.6.6 (5)发布说明](https://github.com/qianne-app/qianne-apple/releases/tag/v0.6.6-build5)。
 
 ## 关于钱呢
 
