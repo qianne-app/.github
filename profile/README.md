@@ -2,8 +2,8 @@
 
 # 钱呢 · Qianne
 
-![Version](https://img.shields.io/badge/Version-0.6.6-34C759?style=flat-square)
-![Build](https://img.shields.io/badge/Build-5-6E7681?style=flat-square)
+![Version](https://img.shields.io/badge/Version-0.6.7-34C759?style=flat-square)
+![Build](https://img.shields.io/badge/Build-15-6E7681?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-In_Development-F2A93B?style=flat-square)
 ![Platform](https://img.shields.io/badge/Focus-iPhone-007AFF?style=flat-square)
 
@@ -23,14 +23,14 @@
 
 | 项目 | 当前信息 |
 | --- | --- |
-| App 版本 | **0.6.6** |
-| 构建号 | **5**（App 内显示为 `0.6.6 (5)`） |
-| 版本阶段 | 0.6.6 已发布 · 账号与多设备同步可用 |
+| App 版本 | **0.6.7** |
+| 构建号 | **15**（App 内显示为 `0.6.7 (15)`） |
+| 版本阶段 | 0.6.7 已发布 · 账号与多设备同步可用 |
 | 当前重点 | 0.7 苹果生态：iPad、Mac、Apple Watch |
 | 工程最低系统 | iOS 26.0 · macOS 26.0 |
-| 信息核对日期 | 2026-11-16 |
+| 信息核对日期 | 2026-11-17 |
 
-**0.6.6 (5)** 于 2026 年 11 月 16 日发布。账户图标统一为圆角方形，补齐银行、钱包和消费信贷品牌标志；统一日期时间、选图与相机体验。首页和账户明细中同一次还款按本金、关联利息依次显示，还款默认跟随当前可用账本。完整更新见 [0.6.6 (5)发布说明](https://github.com/qianne-app/qianne-apple/releases/tag/v0.6.6-build5)。
+**0.6.7 (15)** 于 2026 年 11 月 17 日发布。新增流水日历视图（按月查看每日流入、流出与结余，按日查看流水）及标签统计一级分类下钻；增强本地备份归属保护、首次本地上云进度反馈、待同步批量读取与服务端拒收记录持久化；统一选图与拍照弹页圆角，优化分类手动排序、记账账户选择器排序与周收支联动。完整更新见 [0.6.7 (15)发布说明](https://github.com/qianne-app/qianne-apple/releases/tag/v0.6.7)。
 
 ## 关于钱呢
 
