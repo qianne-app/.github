@@ -2,8 +2,8 @@
 
 # 钱呢 · Qianne
 
-![Version](https://img.shields.io/badge/Version-0.6.7-34C759?style=flat-square)
-![Build](https://img.shields.io/badge/Build-15-6E7681?style=flat-square)
+![Version](https://img.shields.io/badge/Version-0.6.8-34C759?style=flat-square)
+![Build](https://img.shields.io/badge/Build-1-6E7681?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-In_Development-F2A93B?style=flat-square)
 ![Platform](https://img.shields.io/badge/Focus-iPhone-007AFF?style=flat-square)
 
@@ -23,14 +23,14 @@
 
 | 项目 | 当前信息 |
 | --- | --- |
-| App 版本 | **0.6.7** |
-| 构建号 | **15**（App 内显示为 `0.6.7 (15)`） |
-| 版本阶段 | 0.6.7 已发布 · 账号与多设备同步可用 |
+| App 版本 | **0.6.8** |
+| 构建号 | **1**（App 内显示为 `0.6.8 (1)`） |
+| 版本阶段 | 0.6.8 已发布 · 账号与多设备同步可用 |
 | 当前重点 | 0.7 苹果生态：iPad、Mac、Apple Watch |
 | 工程最低系统 | iOS 26.0 · macOS 26.0 |
-| 信息核对日期 | 2026-11-17 |
+| 信息核对日期 | 2026-11-18 |
 
-**0.6.7 (15)** 于 2026 年 11 月 17 日发布。新增流水日历视图（按月查看每日流入、流出与结余，按日查看流水）及标签统计一级分类下钻；增强本地备份归属保护、首次本地上云进度反馈、待同步批量读取与服务端拒收记录持久化；统一选图与拍照弹页圆角，优化分类手动排序、记账账户选择器排序与周收支联动。完整更新见 [0.6.7 (15)发布说明](https://github.com/qianne-app/qianne-apple/releases/tag/v0.6.7)。
+**0.6.8 (1)** 于 2026 年 11 月 18 日发布。优化流水日历卡片展示并修正现金流统计口径（报销入账与退款入账计入流入，报销支出计入流出）；云端同步拉取记录与下载图片支持实时进度与百分比展示，采用有限并发下载并在分批落盘后渐进刷新流水列表缩略图。完整更新见 [0.6.8 (1)发布说明](https://github.com/qianne-app/qianne-apple/releases/tag/v0.6.8)。
 
 ## 关于钱呢
 
